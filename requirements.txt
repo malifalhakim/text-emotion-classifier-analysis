@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+seaborn
+transformers
+torch 
+torchvision 
+torchaudio
+bertopic
+transformers_interpret
